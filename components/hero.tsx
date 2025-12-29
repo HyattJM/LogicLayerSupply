@@ -24,8 +24,8 @@ export function Hero() {
             Logic Layer Supply
           </h1>
           <p className="mt-6 max-w-2xl text-lg text-muted-foreground md:text-xl">
-            Premium digital hardware and assets for the modern creator. 
-            Elevate your setup with engineered excellence.
+            pinnacle workspace setups for the modern professional. 
+            Elevate your environment with engineered excellence.
           </p>
         </motion.div>
 
